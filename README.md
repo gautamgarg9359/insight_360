@@ -1,5 +1,4 @@
 # insight_360
-# Sales Analysis Power BI Project
 
 ## 📊 Project Overview
 This project demonstrates a complete end-to-end analysis of sales data using Power BI.  
@@ -15,6 +14,9 @@ The goal is to extract insights on revenue, profit, and customer trends to suppo
 The dataset used is an e-commerce sales dataset (CSV). It was cleaned and transformed before visualization.  
 [Note: Due to size/privacy limits, only a sample dataset or anonymized version is shared here.]
 
+## 📸 Dashboard file link
+https://drive.google.com/file/d/1XCKelgT1u8UXTBaW4qf4klCCjeBUm_Pd/view?usp=sharing
+
 ## 📈 Key Insights
 - Total Sales & Profit by Region, Category, and Sub-Category  
 - Customer Segmentation based on revenue contribution  
@@ -22,8 +24,8 @@ The dataset used is an e-commerce sales dataset (CSV). It was cleaned and transf
 - Interactive dashboards for decision-making  
 
 ## 📑 Project Files
-- **Sales_Analysis.pbix** → Power BI report file  
-- **Sales_Dataset.csv** → Cleaned dataset used in the project  
+- **insight.pbix** → Power BI report file  
+- **dataset.sql** → Cleaned dataset used in the project  
 - **Report_Screenshots/** → Folder with dashboard screenshots (PNG/JPG)  
 - **Project_Presentation.pdf** → Slide deck summarizing findings  
 
